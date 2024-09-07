@@ -21,6 +21,6 @@ This repository is dedicated to Exploratory Data Analysis (EDA) using Python. It
 ## Installation
 To run the notebooks and scripts, clone the repository and install the required Python packages:
 ```bash
-git clone https://github.com/yourusername/Exploratory-Data-Analysis-with-Python.git
+git clone https://github.com/Outliers001/Exploratory-Data-Analysis-with-Python.git
 cd Exploratory-Data-Analysis-with-Python
 pip install -r requirements.txt
