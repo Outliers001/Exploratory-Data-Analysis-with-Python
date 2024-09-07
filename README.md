@@ -24,3 +24,29 @@ To run the notebooks and scripts, clone the repository and install the required 
 git clone https://github.com/Outliers001/Exploratory-Data-Analysis-with-Python.git
 cd Exploratory-Data-Analysis-with-Python
 pip install -r requirements.txt
+
+## Prerequisites
+Python 3.x
+Jupyter Notebook (optional for running notebooks)
+Libraries:
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Getting Started
+To get started, you can explore the following notebooks:
+
+Basic Data Cleaning – How to handle missing values, outliers, and data transformation.
+Data Visualization – Different techniques for visualizing datasets (histograms, scatter plots, box plots, etc.).
+Feature Analysis – Understanding the relationships between features through correlation, pair plots, and group-by operations.
+Each notebook is self-explanatory and includes code with comments to help you understand each step of the EDA process.
+
+## Contribution
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For any questions or suggestions, feel free to reach out through GitHub Issues.
